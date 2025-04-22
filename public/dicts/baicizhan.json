@@ -425,42 +425,56 @@
     },
     {
         "name": "majority",
+        "ukphone": "məˈdʒɒrəti",
+        "usphone": "məˈdʒɔːrəti",
         "trans": [
             "n. 多数；大多数"
         ]
     },
     {
         "name": "sneakers",
+        "ukphone": "ˈsniːkəz",
+        "usphone": "ˈsniːkərz",
         "trans": [
             "n. 运动鞋"
         ]
     },
     {
         "name": "sculptor",
+        "ukphone": "ˈskʌlptə(r)",
+        "usphone": "ˈskʌlptər",
         "trans": [
             "n. 雕刻家"
         ]
     },
     {
         "name": "croissant",
+        "ukphone": "ˈkwæsɒ̃",
+        "usphone": "krwɑːˈsɒ̃",
         "trans": [
             "n. 牛角面包"
         ]
     },
     {
         "name": "hurl",
+        "ukphone": "hɜːl",
+        "usphone": "hɜːrl",
         "trans": [
             "v. 猛投；大声叫骂"
         ]
     },
     {
         "name": "shrine",
+        "ukphone": "ʃraɪn",
+        "usphone": "ʃraɪn",
         "trans": [
             "n. 圣地；神龛"
         ]
     },
     {
         "name": "revenge",
+        "ukphone": "rɪˈvendʒ",
+        "usphone": "rɪˈvendʒ",
         "trans": [
             "n. 报复；复仇",
             "v. 报仇"
@@ -468,24 +482,32 @@
     },
     {
         "name": "bomber",
+        "ukphone": "ˈbɒmə(r)",
+        "usphone": "ˈbɑːmər",
         "trans": [
             "n. 轰炸机；投弹手"
         ]
     },
     {
         "name": "dropout",
+        "ukphone": "ˈdrɒpaʊt",
+        "usphone": "ˈdrɑːpaʊt",
         "trans": [
             "n. 辍学者；退出者"
         ]
     },
     {
         "name": "customary",
+        "ukphone": "ˈkʌstəməri",
+        "usphone": "ˈkʌstəməri",
         "trans": [
             "adj. 习惯的；惯例的"
         ]
     },
     {
         "name": "counterfeit",
+        "ukphone": "ˈkaʊntəfɪt",
+        "usphone": "ˈkaʊntərfɪt",
         "trans": [
             "adj. 伪造的；假冒的",
             "v. 伪造；仿造"
@@ -493,48 +515,64 @@
     },
     {
         "name": "villa",
+        "ukphone": "ˈvɪlə",
+        "usphone": "ˈvɪlə",
         "trans": [
             "n. 别墅"
         ]
     },
     {
         "name": "compass",
+        "ukphone": "ˈkʌmpəs",
+        "usphone": "ˈkʌmpəs",
         "trans": [
             "n. 罗盘；指南针；圆规"
         ]
     },
     {
         "name": "cooperate",
+        "ukphone": "kəʊˈɒpəreɪt",
+        "usphone": "koʊˈɑːpəreɪt",
         "trans": [
             "v. 合作；协作"
         ]
     },
     {
         "name": "midday",
+        "ukphone": "ˌmɪdˈdeɪ",
+        "usphone": "ˌmɪdˈdeɪ",
         "trans": [
             "n. 正午；中午"
         ]
     },
     {
         "name": "announcement",
+        "ukphone": "əˈnaʊnsmənt",
+        "usphone": "əˈnaʊnsmənt",
         "trans": [
             "n. 公告；通知"
         ]
     },
     {
         "name": "inconsistent",
+        "ukphone": "ˌɪnkənˈsɪstənt",
+        "usphone": "ˌɪnkənˈsɪstənt",
         "trans": [
             "adj. 不一致的；矛盾的"
         ]
     },
     {
         "name": "internal",
+        "ukphone": "ɪnˈtɜːnl",
+        "usphone": "ɪnˈtɜːrnl",
         "trans": [
             "adj. 内部的；国内的"
         ]
     },
     {
         "name": "input",
+        "ukphone": "ˈɪnpʊt",
+        "usphone": "ˈɪnpʊt",
         "trans": [
             "n. 输入；投入",
             "v. 输入"
@@ -542,54 +580,72 @@
     },
     {
         "name": "comparable",
+        "ukphone": "ˈkɒmpərəbl",
+        "usphone": "ˈkɑːmpərəbl",
         "trans": [
             "adj. 可比较的；类似的"
         ]
     },
     {
         "name": "concentrated",
+        "ukphone": "ˈkɒnsntreɪtɪd",
+        "usphone": "ˈkɑːnsntreɪtɪd",
         "trans": [
             "adj. 集中的；浓缩的"
         ]
     },
     {
         "name": "withhold",
+        "ukphone": "wɪðˈhəʊld",
+        "usphone": "wɪðˈhoʊld",
         "trans": [
             "v. 扣留；保留"
         ]
     },
     {
         "name": "prestigious",
+        "ukphone": "preˈstɪdʒəs",
+        "usphone": "preˈstɪdʒəs",
         "trans": [
             "adj. 有声望的；有威信的"
         ]
     },
     {
         "name": "costly",
+        "ukphone": "ˈkɒstli",
+        "usphone": "ˈkɔːstli",
         "trans": [
             "adj. 昂贵的；代价高的"
         ]
     },
     {
         "name": "scotch",
+        "ukphone": "skɒtʃ",
+        "usphone": "skɑːtʃ",
         "trans": [
             "v. 阻止；平息"
         ]
     },
     {
         "name": "dedicated",
+        "ukphone": "ˈdedɪkeɪtɪd",
+        "usphone": "ˈdedɪkeɪtɪd",
         "trans": [
             "adj. 专注的；献身的"
         ]
     },
     {
         "name": "overcharge",
+        "ukphone": "ˌəʊvəˈtʃɑːdʒ",
+        "usphone": "ˌoʊvərˈtʃɑːrdʒ",
         "trans": [
             "v. 索价过高；过度充电"
         ]
     },
     {
         "name": "parody",
+        "ukphone": "ˈpærədi",
+        "usphone": "ˈpærədi",
         "trans": [
             "n. 模仿作品；拙劣的模仿",
             "v. 滑稽地模仿"
@@ -597,24 +653,32 @@
     },
     {
         "name": "surgeon",
+        "ukphone": "ˈsɜːdʒən",
+        "usphone": "ˈsɜːrdʒən",
         "trans": [
             "n. 外科医生"
         ]
     },
     {
         "name": "embroidery",
+        "ukphone": "ɪmˈbrɔɪdəri",
+        "usphone": "ɪmˈbrɔɪdəri",
         "trans": [
             "n. 刺绣；绣花"
         ]
     },
     {
         "name": "grown",
+        "ukphone": "ɡrəʊn",
+        "usphone": "ɡroʊn",
         "trans": [
             "adj. 成长的；成熟的"
         ]
     },
     {
         "name": "crow",
+        "ukphone": "krəʊ",
+        "usphone": "kroʊ",
         "trans": [
             "n. 乌鸦",
             "v. 啼叫；自鸣得意"
@@ -622,12 +686,16 @@
     },
     {
         "name": "mutual",
+        "ukphone": "ˈmjuːtʃuəl",
+        "usphone": "ˈmjuːtʃuəl",
         "trans": [
             "adj. 相互的；共同的"
         ]
     },
     {
         "name": "communist",
+        "ukphone": "ˈkɒmjənɪst",
+        "usphone": "ˈkɑːmjənɪst",
         "trans": [
             "n. 共产主义者",
             "adj. 共产主义的"
@@ -635,12 +703,16 @@
     },
     {
         "name": "as yet",
+        "ukphone": "æz jet",
+        "usphone": "æz jet",
         "trans": [
             "phr. 到目前为止；尚未"
         ]
     },
     {
         "name": "glitter",
+        "ukphone": "ˈɡlɪtə(r)",
+        "usphone": "ˈɡlɪtər",
         "trans": [
             "v. 闪闪发光；闪耀",
             "n. 闪光；魅力"
@@ -648,12 +720,16 @@
     },
     {
         "name": "premature",
+        "ukphone": "ˈpremətʃə(r)",
+        "usphone": "ˌpriːməˈtʃʊr",
         "trans": [
             "adj. 过早的；早产的"
         ]
     },
     {
         "name": "plural",
+        "ukphone": "ˈplʊərəl",
+        "usphone": "ˈplʊrəl",
         "trans": [
             "adj. 复数的；多元的",
             "n. 复数"
@@ -661,30 +737,40 @@
     },
     {
         "name": "hereinafter",
+        "ukphone": "ˌhɪərɪnˈɑːftə(r)",
+        "usphone": "ˌhɪrɪnˈæftər",
         "trans": [
             "adv. 以下；在下文中"
         ]
     },
     {
         "name": "luminous",
+        "ukphone": "ˈluːmɪnəs",
+        "usphone": "ˈluːmɪnəs",
         "trans": [
             "adj. 发光的；明亮的"
         ]
     },
     {
         "name": "envelop",
+        "ukphone": "ɪnˈveləp",
+        "usphone": "ɪnˈveləp",
         "trans": [
             "v. 包围；覆盖"
         ]
     },
     {
         "name": "decentralize",
+        "ukphone": "ˌdiːˈsentrəlaɪz",
+        "usphone": "ˌdiːˈsentrəlaɪz",
         "trans": [
             "v. 分散；下放权力"
         ]
     },
     {
         "name": "standing",
+        "ukphone": "ˈstændɪŋ",
+        "usphone": "ˈstændɪŋ",
         "trans": [
             "n. 地位；持续时间",
             "adj. 常设的；长期的"
@@ -692,24 +778,32 @@
     },
     {
         "name": "oath",
+        "ukphone": "əʊθ",
+        "usphone": "oʊθ",
         "trans": [
             "n. 誓言；誓约"
         ]
     },
     {
         "name": "communism",
+        "ukphone": "ˈkɒmjənɪzəm",
+        "usphone": "ˈkɑːmjənɪzəm",
         "trans": [
             "n. 共产主义"
         ]
     },
     {
         "name": "fruition",
+        "ukphone": "fruˈɪʃn",
+        "usphone": "fruˈɪʃn",
         "trans": [
             "n. 实现；成果"
         ]
     },
     {
         "name": "empirical",
+        "ukphone": "ɪmˈpɪrɪkl",
+        "usphone": "ɪmˈpɪrɪkl",
         "trans": [
             "adj. 经验主义的；以观察为依据的"
         ]

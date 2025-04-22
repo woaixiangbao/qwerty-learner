@@ -1,0 +1,717 @@
+[
+    {
+        "name": "adolescence",
+        "ukphone": "ˌædəˈlesns",
+        "usphone": "ˌædəˈlesns",
+        "trans": [
+            "n. 青春期，青春"
+        ]
+    },
+    {
+        "name": "atom",
+        "ukphone": "ˈætəm",
+        "usphone": "ˈætəm",
+        "trans": [
+            "n. 原子；微粒；原子能"
+        ]
+    },
+    {
+        "name": "attic",
+        "ukphone": "ˈætɪk",
+        "usphone": "ˈætɪk",
+        "trans": [
+            "n. 阁楼；顶楼"
+        ]
+    },
+    {
+        "name": "internationalize",
+        "ukphone": "ˌɪntəˈnæʃnəlaɪz",
+        "usphone": "ˌɪntərˈnæʃnəlaɪz",
+        "trans": [
+            "v. 使国际化"
+        ]
+    },
+    {
+        "name": "astray",
+        "ukphone": "əˈstreɪ",
+        "usphone": "əˈstreɪ",
+        "trans": [
+            "adv. 迷路地；误入歧途地"
+        ]
+    },
+    {
+        "name": "workshop",
+        "ukphone": "ˈwɜːkʃɒp",
+        "usphone": "ˈwɜːrkʃɑːp",
+        "trans": [
+            "n. 车间；研讨会"
+        ]
+    },
+    {
+        "name": "languid",
+        "ukphone": "ˈlæŋɡwɪd",
+        "usphone": "ˈlæŋɡwɪd",
+        "trans": [
+            "adj. 无精打采的；倦怠的"
+        ]
+    },
+    {
+        "name": "stammer",
+        "ukphone": "ˈstæmə(r)",
+        "usphone": "ˈstæmər",
+        "trans": [
+            "v. 结结巴巴地说",
+            "n. 口吃；结巴"
+        ]
+    },
+    {
+        "name": "inestimable",
+        "ukphone": "ɪnˈestɪməbl",
+        "usphone": "ɪnˈestɪməbl",
+        "trans": [
+            "adj. 无法估量的；极贵重的"
+        ]
+    },
+    {
+        "name": "frock",
+        "ukphone": "frɒk",
+        "usphone": "frɑːk",
+        "trans": [
+            "n. 连衣裙；僧袍"
+        ]
+    },
+    {
+        "name": "weep",
+        "ukphone": "wiːp",
+        "usphone": "wiːp",
+        "trans": [
+            "v. 哭泣；流泪"
+        ]
+    },
+    {
+        "name": "thoroughly",
+        "ukphone": "ˈθʌrəli",
+        "usphone": "ˈθɜːrəli",
+        "trans": [
+            "adv. 彻底地；完全地"
+        ]
+    },
+    {
+        "name": "pressing",
+        "ukphone": "ˈpresɪŋ",
+        "usphone": "ˈpresɪŋ",
+        "trans": [
+            "adj. 紧迫的；迫切的"
+        ]
+    },
+    {
+        "name": "lap",
+        "ukphone": "læp",
+        "usphone": "læp",
+        "trans": [
+            "n. 大腿；一圈",
+            "v. 重叠；舔"
+        ]
+    },
+    {
+        "name": "statistician",
+        "ukphone": "ˌstætɪˈstɪʃn",
+        "usphone": "ˌstætɪˈstɪʃn",
+        "trans": [
+            "n. 统计学家"
+        ]
+    },
+    {
+        "name": "innocence",
+        "ukphone": "ˈɪnəsns",
+        "usphone": "ˈɪnəsns",
+        "trans": [
+            "n. 无辜；清白；天真"
+        ]
+    },
+    {
+        "name": "forehead",
+        "ukphone": "ˈfɒrɪd",
+        "usphone": "ˈfɔːrhed",
+        "trans": [
+            "n. 前额"
+        ]
+    },
+    {
+        "name": "abandon",
+        "ukphone": "əˈbændən",
+        "usphone": "əˈbændən",
+        "trans": [
+            "v. 放弃；遗弃"
+        ]
+    },
+    {
+        "name": "procurement",
+        "ukphone": "prəˈkjʊəmənt",
+        "usphone": "prəˈkjʊrmənt",
+        "trans": [
+            "n. 采购；获得"
+        ]
+    },
+    {
+        "name": "betray",
+        "ukphone": "bɪˈtreɪ",
+        "usphone": "bɪˈtreɪ",
+        "trans": [
+            "v. 背叛；泄露"
+        ]
+    },
+    {
+        "name": "perturb",
+        "ukphone": "pəˈtɜːb",
+        "usphone": "pərˈtɜːrb",
+        "trans": [
+            "v. 使不安；扰乱"
+        ]
+    },
+    {
+        "name": "covering",
+        "ukphone": "ˈkʌvərɪŋ",
+        "usphone": "ˈkʌvərɪŋ",
+        "trans": [
+            "n. 覆盖物；外壳"
+        ]
+    },
+    {
+        "name": "affectionate",
+        "ukphone": "əˈfekʃənət",
+        "usphone": "əˈfekʃənət",
+        "trans": [
+            "adj. 深情的；充满爱的"
+        ]
+    },
+    {
+        "name": "manifest",
+        "ukphone": "ˈmænɪfest",
+        "usphone": "ˈmænɪfest",
+        "trans": [
+            "v. 表明；显示",
+            "adj. 明显的"
+        ]
+    },
+    {
+        "name": "repairmen",
+        "ukphone": "rɪˈpeəmən",
+        "usphone": "rɪˈpermən",
+        "trans": [
+            "n. 修理工"
+        ]
+    },
+    {
+        "name": "criticism",
+        "ukphone": "ˈkrɪtɪsɪzəm",
+        "usphone": "ˈkrɪtɪsɪzəm",
+        "trans": [
+            "n. 批评；评论"
+        ]
+    },
+    {
+        "name": "prologue",
+        "ukphone": "ˈprəʊlɒɡ",
+        "usphone": "ˈproʊlɔːɡ",
+        "trans": [
+            "n. 序言；开场白"
+        ]
+    },
+    {
+        "name": "ivory",
+        "ukphone": "ˈaɪvəri",
+        "usphone": "ˈaɪvəri",
+        "trans": [
+            "n. 象牙；乳白色"
+        ]
+    },
+    {
+        "name": "enhancement",
+        "ukphone": "ɪnˈhɑːnsmənt",
+        "usphone": "ɪnˈhænsmənt",
+        "trans": [
+            "n. 提高；增强"
+        ]
+    },
+    {
+        "name": "accidentally",
+        "ukphone": "ˌæksɪˈdentəli",
+        "usphone": "ˌæksɪˈdentəli",
+        "trans": [
+            "adv. 偶然地；意外地"
+        ]
+    },
+    {
+        "name": "sharpen",
+        "ukphone": "ˈʃɑːpən",
+        "usphone": "ˈʃɑːrpən",
+        "trans": [
+            "v. 削尖；使敏锐"
+        ]
+    },
+    {
+        "name": "echo",
+        "ukphone": "ˈekəʊ",
+        "usphone": "ˈekoʊ",
+        "trans": [
+            "n. 回声；共鸣",
+            "v. 回响；附和"
+        ]
+    },
+    {
+        "name": "affluent",
+        "ukphone": "ˈæfluənt",
+        "usphone": "ˈæfluənt",
+        "trans": [
+            "adj. 富裕的；丰富的"
+        ]
+    },
+    {
+        "name": "ransom",
+        "ukphone": "ˈrænsəm",
+        "usphone": "ˈrænsəm",
+        "trans": [
+            "n. 赎金",
+            "v. 赎回"
+        ]
+    },
+    {
+        "name": "undo",
+        "ukphone": "ʌnˈduː",
+        "usphone": "ʌnˈduː",
+        "trans": [
+            "v. 解开；撤销"
+        ]
+    },
+    {
+        "name": "disillusion",
+        "ukphone": "ˌdɪsɪˈluːʒn",
+        "usphone": "ˌdɪsɪˈluːʒn",
+        "trans": [
+            "v. 使醒悟；使幻想破灭"
+        ]
+    },
+    {
+        "name": "lodge",
+        "ukphone": "lɒdʒ",
+        "usphone": "lɑːdʒ",
+        "trans": [
+            "v. 提出；寄宿",
+            "n. 小屋；旅馆"
+        ]
+    },
+    {
+        "name": "backdate",
+        "ukphone": "ˌbækˈdeɪt",
+        "usphone": "ˌbækˈdeɪt",
+        "trans": [
+            "v. 追溯；倒填日期"
+        ]
+    },
+    {
+        "name": "separation",
+        "ukphone": "ˌsepəˈreɪʃn",
+        "usphone": "ˌsepəˈreɪʃn",
+        "trans": [
+            "n. 分离；分居"
+        ]
+    },
+    {
+        "name": "nominate",
+        "ukphone": "ˈnɒmɪneɪt",
+        "usphone": "ˈnɑːmɪneɪt",
+        "trans": [
+            "v. 提名；任命"
+        ]
+    },
+    {
+        "name": "yoke",
+        "ukphone": "jəʊk",
+        "usphone": "joʊk",
+        "trans": [
+            "n. 轭；束缚",
+            "v. 结合；连接"
+        ]
+    },
+    {
+        "name": "retort",
+        "ukphone": "rɪˈtɔːt",
+        "usphone": "rɪˈtɔːrt",
+        "trans": [
+            "v. 反驳；回嘴",
+            "n. 反驳"
+        ]
+    },
+    {
+        "name": "gather",
+        "ukphone": "ˈɡæðə(r)",
+        "usphone": "ˈɡæðər",
+        "trans": [
+            "v. 收集；聚集"
+        ]
+    },
+    {
+        "name": "haggle",
+        "ukphone": "ˈhæɡl",
+        "usphone": "ˈhæɡl",
+        "trans": [
+            "v. 讨价还价"
+        ]
+    },
+    {
+        "name": "wherein",
+        "ukphone": "weərˈɪn",
+        "usphone": "werˈɪn",
+        "trans": [
+            "adv. 在其中；在何处"
+        ]
+    },
+    {
+        "name": "sediment",
+        "ukphone": "ˈsedɪmənt",
+        "usphone": "ˈsedɪmənt",
+        "trans": [
+            "n. 沉淀物；沉积物"
+        ]
+    },
+    {
+        "name": "stroller",
+        "ukphone": "ˈstrəʊlə(r)",
+        "usphone": "ˈstroʊlər",
+        "trans": [
+            "n. 婴儿车；散步者"
+        ]
+    },
+    {
+        "name": "trochanter",
+        "ukphone": "trəʊˈkæntə(r)",
+        "usphone": "troʊˈkæntər",
+        "trans": [
+            "n. 转子（解剖学）"
+        ]
+    },
+    {
+        "name": "quantitative",
+        "ukphone": "ˈkwɒntɪtətɪv",
+        "usphone": "ˈkwɑːntəteɪtɪv",
+        "trans": [
+            "adj. 定量的；数量的"
+        ]
+    },
+    {
+        "name": "lubricate",
+        "ukphone": "ˈluːbrɪkeɪt",
+        "usphone": "ˈluːbrɪkeɪt",
+        "trans": [
+            "v. 润滑；加润滑油"
+        ]
+    },
+    {
+        "name": "territorial",
+        "ukphone": "ˌterɪˈtɔːriəl",
+        "usphone": "ˌterɪˈtɔːriəl",
+        "trans": [
+            "adj. 领土的；区域的"
+        ]
+    },
+    {
+        "name": "pipeline",
+        "ukphone": "ˈpaɪplaɪn",
+        "usphone": "ˈpaɪplaɪn",
+        "trans": [
+            "n. 管道；输油管"
+        ]
+    },
+    {
+        "name": "majority",
+        "trans": [
+            "n. 多数；大多数"
+        ]
+    },
+    {
+        "name": "sneakers",
+        "trans": [
+            "n. 运动鞋"
+        ]
+    },
+    {
+        "name": "sculptor",
+        "trans": [
+            "n. 雕刻家"
+        ]
+    },
+    {
+        "name": "croissant",
+        "trans": [
+            "n. 牛角面包"
+        ]
+    },
+    {
+        "name": "hurl",
+        "trans": [
+            "v. 猛投；大声叫骂"
+        ]
+    },
+    {
+        "name": "shrine",
+        "trans": [
+            "n. 圣地；神龛"
+        ]
+    },
+    {
+        "name": "revenge",
+        "trans": [
+            "n. 报复；复仇",
+            "v. 报仇"
+        ]
+    },
+    {
+        "name": "bomber",
+        "trans": [
+            "n. 轰炸机；投弹手"
+        ]
+    },
+    {
+        "name": "dropout",
+        "trans": [
+            "n. 辍学者；退出者"
+        ]
+    },
+    {
+        "name": "customary",
+        "trans": [
+            "adj. 习惯的；惯例的"
+        ]
+    },
+    {
+        "name": "counterfeit",
+        "trans": [
+            "adj. 伪造的；假冒的",
+            "v. 伪造；仿造"
+        ]
+    },
+    {
+        "name": "villa",
+        "trans": [
+            "n. 别墅"
+        ]
+    },
+    {
+        "name": "compass",
+        "trans": [
+            "n. 罗盘；指南针；圆规"
+        ]
+    },
+    {
+        "name": "cooperate",
+        "trans": [
+            "v. 合作；协作"
+        ]
+    },
+    {
+        "name": "midday",
+        "trans": [
+            "n. 正午；中午"
+        ]
+    },
+    {
+        "name": "announcement",
+        "trans": [
+            "n. 公告；通知"
+        ]
+    },
+    {
+        "name": "inconsistent",
+        "trans": [
+            "adj. 不一致的；矛盾的"
+        ]
+    },
+    {
+        "name": "internal",
+        "trans": [
+            "adj. 内部的；国内的"
+        ]
+    },
+    {
+        "name": "input",
+        "trans": [
+            "n. 输入；投入",
+            "v. 输入"
+        ]
+    },
+    {
+        "name": "comparable",
+        "trans": [
+            "adj. 可比较的；类似的"
+        ]
+    },
+    {
+        "name": "concentrated",
+        "trans": [
+            "adj. 集中的；浓缩的"
+        ]
+    },
+    {
+        "name": "withhold",
+        "trans": [
+            "v. 扣留；保留"
+        ]
+    },
+    {
+        "name": "prestigious",
+        "trans": [
+            "adj. 有声望的；有威信的"
+        ]
+    },
+    {
+        "name": "costly",
+        "trans": [
+            "adj. 昂贵的；代价高的"
+        ]
+    },
+    {
+        "name": "scotch",
+        "trans": [
+            "v. 阻止；平息"
+        ]
+    },
+    {
+        "name": "dedicated",
+        "trans": [
+            "adj. 专注的；献身的"
+        ]
+    },
+    {
+        "name": "overcharge",
+        "trans": [
+            "v. 索价过高；过度充电"
+        ]
+    },
+    {
+        "name": "parody",
+        "trans": [
+            "n. 模仿作品；拙劣的模仿",
+            "v. 滑稽地模仿"
+        ]
+    },
+    {
+        "name": "surgeon",
+        "trans": [
+            "n. 外科医生"
+        ]
+    },
+    {
+        "name": "embroidery",
+        "trans": [
+            "n. 刺绣；绣花"
+        ]
+    },
+    {
+        "name": "grown",
+        "trans": [
+            "adj. 成长的；成熟的"
+        ]
+    },
+    {
+        "name": "crow",
+        "trans": [
+            "n. 乌鸦",
+            "v. 啼叫；自鸣得意"
+        ]
+    },
+    {
+        "name": "mutual",
+        "trans": [
+            "adj. 相互的；共同的"
+        ]
+    },
+    {
+        "name": "communist",
+        "trans": [
+            "n. 共产主义者",
+            "adj. 共产主义的"
+        ]
+    },
+    {
+        "name": "as yet",
+        "trans": [
+            "phr. 到目前为止；尚未"
+        ]
+    },
+    {
+        "name": "glitter",
+        "trans": [
+            "v. 闪闪发光；闪耀",
+            "n. 闪光；魅力"
+        ]
+    },
+    {
+        "name": "premature",
+        "trans": [
+            "adj. 过早的；早产的"
+        ]
+    },
+    {
+        "name": "plural",
+        "trans": [
+            "adj. 复数的；多元的",
+            "n. 复数"
+        ]
+    },
+    {
+        "name": "hereinafter",
+        "trans": [
+            "adv. 以下；在下文中"
+        ]
+    },
+    {
+        "name": "luminous",
+        "trans": [
+            "adj. 发光的；明亮的"
+        ]
+    },
+    {
+        "name": "envelop",
+        "trans": [
+            "v. 包围；覆盖"
+        ]
+    },
+    {
+        "name": "decentralize",
+        "trans": [
+            "v. 分散；下放权力"
+        ]
+    },
+    {
+        "name": "standing",
+        "trans": [
+            "n. 地位；持续时间",
+            "adj. 常设的；长期的"
+        ]
+    },
+    {
+        "name": "oath",
+        "trans": [
+            "n. 誓言；誓约"
+        ]
+    },
+    {
+        "name": "communism",
+        "trans": [
+            "n. 共产主义"
+        ]
+    },
+    {
+        "name": "fruition",
+        "trans": [
+            "n. 实现；成果"
+        ]
+    },
+    {
+        "name": "empirical",
+        "trans": [
+            "adj. 经验主义的；以观察为依据的"
+        ]
+    }
+]

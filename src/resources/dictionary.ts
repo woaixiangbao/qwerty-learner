@@ -15,6 +15,17 @@ const chinaExam: DictionaryResource[] = [
     languageCategory: 'en',
   },
   {
+    id: 'baicizhan',
+    name: '百词斩',
+    description: '百词斩',
+    category: '中国考试',
+    tags: ['百词斩'],
+    url: '/dicts/baicizhan.json',
+    length: 99,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'cet6',
     name: 'CET-6',
     description: '大学英语六级词库',

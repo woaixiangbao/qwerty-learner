@@ -815,6 +815,17 @@ const internationalExam: DictionaryResource[] = [
     languageCategory: 'en',
   },
   {
+    id: 'IELTSVocabularyBible_MyIELTS',
+    name: '雅思词汇真经 (My IELTS)',
+    description: '雅思词汇真经 - 来自 my-ielts 项目',
+    category: '国际考试',
+    tags: ['IELTS'],
+    url: '/dicts/IELTSVocabularyBible_MyIELTS.json',
+    length: 3680,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'IELTS-807',
     name: '雅思 wanglu 807',
     description: '雅思 wanglu 807',

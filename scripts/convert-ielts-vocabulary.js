@@ -9,26 +9,29 @@ const content = fs.readFileSync(vocabularyPath, 'utf-8')
 const words = []
 const seenWords = new Set() // 用于去重
 
-// 按 === 分割分类（保持章节顺序）
-const categories = content.split('===\n')
+// 按 === 分割章节（=== 表示章节结束）
+// 第一个章节没有开头的 ===，后续章节都有 === 作为分隔符
+const sections = content.split('===\n')
 
-console.log(`📚 发现 ${categories.length} 个章节`)
+console.log(`📚 发现 ${sections.length} 个章节段`)
 
-for (let chapterIndex = 0; chapterIndex < categories.length; chapterIndex++) {
-  const category = categories[chapterIndex]
-  if (!category.trim()) continue
+// 处理每个章节
+for (let chapterIndex = 0; chapterIndex < sections.length; chapterIndex++) {
+  const section = sections[chapterIndex]
+  if (!section.trim()) continue
 
+  // 每个章节的格式是：章节名\n+++\n单词内容
   // 按 +++ 分割标题和内容
-  const parts = category.split('+++\n')
+  const parts = section.split('+++\n')
   if (parts.length < 2) continue
 
   const chapterTitle = parts[0].trim()
-  const categoryBody = parts[1]
+  const chapterBody = parts[1]
 
   console.log(`  处理章节 ${chapterIndex + 1}: ${chapterTitle}`)
 
   // 按 --- 分割单词组（保持组内顺序）
-  const wordGroups = categoryBody.split('---\n')
+  const wordGroups = chapterBody.split('---\n')
 
   for (const wordGroup of wordGroups) {
     const lines = wordGroup.trim().split('\n')
